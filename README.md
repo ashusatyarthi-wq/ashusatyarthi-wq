@@ -13,7 +13,7 @@
   <a href="https://www.upwork.com/freelancers/~010e53044b5828fe60" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-Top%20Specialist-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
-  <a href="mailto:ashusatyarthi@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashusatyarthi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-ashusatyarthi%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ashusatyarthi-wq?tab=repositories">
@@ -90,7 +90,7 @@ I engineer high-performance, cross-platform software systems with a focus on run
 ### 🤝 Let's Connect & Build
 
 [![Upwork](https://img.shields.io/badge/Hire_on_Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010e53044b5828fe60)
-[![Send Email](https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashusatyarthi@gmail.com)
+[![Send Email](https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ashusatyarthi@gmail.com)
 [![GitHub Profile](https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashusatyarthi-wq)
 
 <br/>
